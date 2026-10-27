@@ -1,0 +1,6 @@
+---
+description: Rules for Phaser gameplay and game architecture
+globs: ["**/*Game*.ts","**/*Scene*.ts","**/game/**/*","**/missions/**/*","**/content/**/*"]
+alwaysApply: false
+---
+Implement data-driven reusable scenes, missions, puzzles, and interactions. Keep Phaser client-only in Next.js. Use deterministic scripted dialogue and objective conditions. Maintain keyboard and touch controls. Gameplay first: playable movement, collisions, NPC interaction, one objective, save/reload. Use references to Scripture, never invented canonical events.
