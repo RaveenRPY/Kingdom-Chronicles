@@ -1,0 +1,5 @@
+---
+description: Kingdom Chronicles game-first project rules
+alwaysApply: true
+---
+Read AGENTS.md and docs/PRODUCT_VISION.md before beginning. This is an actual playable cartoon Bible adventure game, not an LMS, quiz website or UI-only prototype. Build small testable vertical slices using Next.js, Phaser and TypeScript. Only existing paid subscriptions: Cursor and ChatGPT Plus. Do not add paid AI APIs. Do not commit API keys or copyrighted Bible translation text. Report actual tests and working behaviors honestly.
