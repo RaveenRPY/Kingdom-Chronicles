@@ -1,0 +1,6 @@
+---
+description: Scriptural content and localization rules
+globs: ["**/content/**/*","**/stories/**/*","**/locales/**/*","**/dialogue/**/*"]
+alwaysApply: false
+---
+Follow docs/BIBLE_CONTENT_POLICY.md. No NKJV or SROV text copying without verified license. Source every biblical fact with references. Explicitly classify quotations, paraphrases, historical background, interpretation and fictional navigation dialogue. Do not publish unreviewed theological content. Maintain English and Sinhala UTF-8 strings as separate translations.
